@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
 	font-family: serif;
+	background-color: #eaf4fc;
 }
 .wrapper {
     width: 100%;
